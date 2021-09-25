@@ -5,6 +5,8 @@ function myFunction(myParameter) {
     }
     return "The parameter is false!";
 }
-myFunction(true);
+myFunction();
+
+console.log(myFunction());
 
 module.exports = myFunction;
