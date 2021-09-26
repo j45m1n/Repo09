@@ -7,6 +7,4 @@ function myFunction(myParameter) {
 }
 myFunction();
 
-console.log(myFunction());
-
 module.exports = myFunction;

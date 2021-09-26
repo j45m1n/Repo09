@@ -7,8 +7,5 @@ function myEqualFunction(num) {
 }
 myEqualFunction(5);
 myEqualFunction(23);
-myEqualFunction("23");
-myEqualFunction('23');
-myEqualFunction("text");
 
 module.exports = myEqualFunction;

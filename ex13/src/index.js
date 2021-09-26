@@ -1,10 +1,9 @@
 function inverseWhile() {
-
-    var i = 0;
-    while(i < 6) {
-        console.log(i);
-        i++;
+    var fiveNumbers = 0;
+      while(fiveNumbers< 5) {
+        
     }
+    return "fiveNumbers";
 }
 inverseWhile();
 
